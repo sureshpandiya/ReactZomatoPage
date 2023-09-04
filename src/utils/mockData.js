@@ -1,0 +1,66 @@
+const resList = [{
+    cloudinaryImageId: "https://lh3.googleusercontent.com/IPl_i7riwFO0P5JvWJ3oNKxr5waOqayaMvWqkv3EGHCrY5Ylqz7ziErjeouFx2plkJXqtCFEt7T6FgMCOM0PMg6lj4I=w512-rw",
+    name: "Megana Foods",
+    avgRating: "4.3",
+    cuisines: "Biriyani, Burger, HotDrinks",
+    costForTwo: "400",
+    deliveryTime: "3.00pm",
+},{
+    cloudinaryImageId: "https://lh3.googleusercontent.com/IPl_i7riwFO0P5JvWJ3oNKxr5waOqayaMvWqkv3EGHCrY5Ylqz7ziErjeouFx2plkJXqtCFEt7T6FgMCOM0PMg6lj4I=w512-rw",
+    name: "Megana Foods",
+    avgRating: "4.3",
+    cuisines: "Biriyani, Burger, HotDrinks",
+    costForTwo: "400",
+    deliveryTime: "3.00pm",
+},{
+    cloudinaryImageId: "https://lh3.googleusercontent.com/IPl_i7riwFO0P5JvWJ3oNKxr5waOqayaMvWqkv3EGHCrY5Ylqz7ziErjeouFx2plkJXqtCFEt7T6FgMCOM0PMg6lj4I=w512-rw",
+    name: "Megana Foods",
+    avgRating: "4.3",
+    cuisines: "Biriyani, Burger, HotDrinks",
+    costForTwo: "400",
+    deliveryTime: "3.00pm",
+},{
+    cloudinaryImageId: "https://lh3.googleusercontent.com/IPl_i7riwFO0P5JvWJ3oNKxr5waOqayaMvWqkv3EGHCrY5Ylqz7ziErjeouFx2plkJXqtCFEt7T6FgMCOM0PMg6lj4I=w512-rw",
+    name: "Megana Foods",
+    avgRating: "4.3",
+    cuisines: "Biriyani, Burger, HotDrinks",
+    costForTwo: "400",
+    deliveryTime: "3.00pm",
+},{
+    cloudinaryImageId: "https://lh3.googleusercontent.com/IPl_i7riwFO0P5JvWJ3oNKxr5waOqayaMvWqkv3EGHCrY5Ylqz7ziErjeouFx2plkJXqtCFEt7T6FgMCOM0PMg6lj4I=w512-rw",
+    name: "Megana Foods",
+    avgRating: "4.3",
+    cuisines: "Biriyani, Burger, HotDrinks",
+    costForTwo: "400",
+    deliveryTime: "3.00pm",
+},{
+    cloudinaryImageId: "https://lh3.googleusercontent.com/IPl_i7riwFO0P5JvWJ3oNKxr5waOqayaMvWqkv3EGHCrY5Ylqz7ziErjeouFx2plkJXqtCFEt7T6FgMCOM0PMg6lj4I=w512-rw",
+    name: "Megana Foods",
+    avgRating: "4.3",
+    cuisines: "Biriyani, Burger, HotDrinks",
+    costForTwo: "400",
+    deliveryTime: "3.00pm",
+},{
+    cloudinaryImageId: "https://lh3.googleusercontent.com/IPl_i7riwFO0P5JvWJ3oNKxr5waOqayaMvWqkv3EGHCrY5Ylqz7ziErjeouFx2plkJXqtCFEt7T6FgMCOM0PMg6lj4I=w512-rw",
+    name: "Megana Foods",
+    avgRating: "4.3",
+    cuisines: "Biriyani, Burger, HotDrinks",
+    costForTwo: "400",
+    deliveryTime: "3.00pm",
+},{
+    cloudinaryImageId: "https://lh3.googleusercontent.com/IPl_i7riwFO0P5JvWJ3oNKxr5waOqayaMvWqkv3EGHCrY5Ylqz7ziErjeouFx2plkJXqtCFEt7T6FgMCOM0PMg6lj4I=w512-rw",
+    name: "Megana Foods",
+    avgRating: "4.3",
+    cuisines: "Biriyani, Burger, HotDrinks",
+    costForTwo: "400",
+    deliveryTime: "3.00pm",
+},{
+    cloudinaryImageId: "https://lh3.googleusercontent.com/IPl_i7riwFO0P5JvWJ3oNKxr5waOqayaMvWqkv3EGHCrY5Ylqz7ziErjeouFx2plkJXqtCFEt7T6FgMCOM0PMg6lj4I=w512-rw",
+    name: "Megana Foods",
+    avgRating: "4.3",
+    cuisines: "Biriyani, Burger, HotDrinks",
+    costForTwo: "400",
+    deliveryTime: "3.00pm",
+}]
+
+export default resList;
